@@ -59,7 +59,7 @@ row before the </tbody></table> line.
   - [Zero-value Mutexes are Valid](#zero-value-mutexes-are-valid)
   - [Copy Slices and Maps at Boundaries](#copy-slices-and-maps-at-boundaries)
   - [Defer to Clean Up](#defer-to-clean-up)
-  - [Channel Size is One or None](#channel-size-is-one-or-none)
+  - [Channel 大小一个或者没有](#channel-size-is-one-or-none)
   - [Start Enums at One](#start-enums-at-one)
   - [Error Types](#error-types)
   - [Error Wrapping](#error-wrapping)
